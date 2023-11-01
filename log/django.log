@@ -1,0 +1,396 @@
+INFO 2023-10-28 21:38:51,204 autoreload 2136 27808 Watching for file changes with StatReloader
+INFO 2023-10-28 21:40:07,417 autoreload 2136 27808 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:40:07,999 autoreload 28060 29096 Watching for file changes with StatReloader
+INFO 2023-10-28 21:40:30,782 autoreload 28060 29096 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-10-28 21:40:31,369 autoreload 16672 21156 Watching for file changes with StatReloader
+INFO 2023-10-28 21:40:37,085 basehttp 16672 31332 "GET / HTTP/1.1" 200 941
+WARNING 2023-10-28 21:40:37,322 log 16672 31332 Not Found: /ссылка на изображение
+WARNING 2023-10-28 21:40:37,324 basehttp 16672 31332 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2570
+WARNING 2023-10-28 21:40:37,364 log 16672 31332 Not Found: /favicon.ico
+WARNING 2023-10-28 21:40:37,365 basehttp 16672 31332 "GET /favicon.ico HTTP/1.1" 404 2403
+INFO 2023-10-28 21:45:07,022 autoreload 16672 21156 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:45:08,944 autoreload 32748 31536 Watching for file changes with StatReloader
+INFO 2023-10-28 21:46:44,511 autoreload 32748 31536 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:46:45,120 autoreload 21924 31876 Watching for file changes with StatReloader
+INFO 2023-10-28 21:47:29,531 autoreload 21924 31876 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-10-28 21:47:30,184 autoreload 16676 13004 Watching for file changes with StatReloader
+INFO 2023-10-28 21:47:37,676 basehttp 16676 32248 "GET /lunch HTTP/1.1" 301 0
+ERROR 2023-10-28 21:47:37,840 log 16676 31736 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    return render(request, 'lunch.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: lunch.html
+ERROR 2023-10-28 21:47:37,843 basehttp 16676 31736 "GET /lunch/ HTTP/1.1" 500 83840
+INFO 2023-10-28 21:49:09,241 autoreload 16676 13004 D:\coding\django\Lib\site-packages\django\contrib\admin\exceptions.py changed, reloading.
+INFO 2023-10-28 21:49:56,987 autoreload 30308 26788 Watching for file changes with StatReloader
+ERROR 2023-10-28 21:50:24,154 log 30308 29488 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    return render(request, 'lunch.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: lunch.html
+INFO 2023-10-28 21:50:24,158 basehttp 30308 29488 - Broken pipe from ('127.0.0.1', 54995)
+INFO 2023-10-28 21:51:14,227 autoreload 19672 30236 Watching for file changes with StatReloader
+ERROR 2023-10-28 21:51:18,204 log 19672 24724 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    return render(request, 'lunch.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: lunch.html
+ERROR 2023-10-28 21:51:18,206 basehttp 19672 24724 "GET /lunch/ HTTP/1.1" 500 84275
+INFO 2023-10-28 21:52:08,990 autoreload 19672 30236 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:52:09,692 autoreload 31580 28836 Watching for file changes with StatReloader
+ERROR 2023-10-28 21:52:12,840 log 31580 7348 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    return render(request, 'index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+ERROR 2023-10-28 21:52:12,842 basehttp 31580 7348 "GET /lunch/ HTTP/1.1" 500 84275
+ERROR 2023-10-28 21:53:09,866 log 31580 15456 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    return render(request, 'recipes/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+ERROR 2023-10-28 21:53:09,868 basehttp 31580 15456 "GET /lunch/ HTTP/1.1" 500 84291
+INFO 2023-10-28 21:53:10,671 autoreload 31580 28836 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:53:11,361 autoreload 31776 31332 Watching for file changes with StatReloader
+ERROR 2023-10-28 21:55:42,541 log 31776 31768 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 13, in lunch
+    def lunch(request):
+               ^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: recipes/index.html
+ERROR 2023-10-28 21:55:42,545 basehttp 31776 31768 "GET /lunch/ HTTP/1.1" 500 84650
+INFO 2023-10-28 21:55:43,207 autoreload 31776 31332 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:55:45,216 autoreload 25712 31080 Watching for file changes with StatReloader
+INFO 2023-10-28 21:59:24,637 autoreload 25712 31080 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 21:59:25,832 autoreload 32168 30840 Watching for file changes with StatReloader
+INFO 2023-10-28 21:59:43,632 basehttp 32168 23256 "GET /lunch/ HTTP/1.1" 200 425
+WARNING 2023-10-28 21:59:44,170 log 32168 23256 Not Found: /favicon.ico
+WARNING 2023-10-28 21:59:44,171 basehttp 32168 23256 "GET /favicon.ico HTTP/1.1" 404 2570
+INFO 2023-10-28 21:59:53,223 basehttp 32168 15756 "GET /lunch/ HTTP/1.1" 200 425
+INFO 2023-10-28 22:04:08,245 basehttp 32168 34500 "GET /lunch/ HTTP/1.1" 200 622
+INFO 2023-10-28 22:14:06,248 autoreload 32168 30840 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-10-28 22:14:09,148 autoreload 16748 31660 Watching for file changes with StatReloader
+INFO 2023-10-28 22:17:59,873 autoreload 27048 29024 Watching for file changes with StatReloader
+INFO 2023-10-28 22:18:19,567 autoreload 27048 29024 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-10-28 22:18:20,856 autoreload 27692 29744 Watching for file changes with StatReloader
+ERROR 2023-10-28 22:18:32,816 log 27692 15752 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 10, in index
+    return render(request, 'base.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 8: 'static'. Did you forget to register or load this tag?
+ERROR 2023-10-28 22:18:32,821 basehttp 27692 15752 "GET / HTTP/1.1" 500 144790
+INFO 2023-10-28 22:19:01,930 autoreload 27692 29744 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-10-28 22:19:02,514 autoreload 34256 6376 Watching for file changes with StatReloader
+INFO 2023-10-28 22:19:38,630 basehttp 34256 31660 "GET / HTTP/1.1" 200 1376
+WARNING 2023-10-28 22:19:38,690 basehttp 34256 33668 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:19:38,691 log 34256 31660 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:19:38,693 basehttp 34256 31660 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:20:26,283 basehttp 34256 10648 "GET / HTTP/1.1" 200 1376
+WARNING 2023-10-28 22:20:26,313 basehttp 34256 10648 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:20:26,315 log 34256 17120 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:20:26,316 basehttp 34256 17120 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:20:33,567 basehttp 34256 30764 "GET / HTTP/1.1" 200 1376
+WARNING 2023-10-28 22:20:33,636 basehttp 34256 30764 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:20:33,638 log 34256 29024 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:20:33,639 basehttp 34256 29024 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+ERROR 2023-10-28 22:23:57,440 log 34256 3296 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 10, in index
+    return render(request, 'base.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'base' not found. 'base' is not a valid view function or pattern name.
+ERROR 2023-10-28 22:23:57,444 basehttp 34256 3296 "GET / HTTP/1.1" 500 120764
+WARNING 2023-10-28 22:28:20,955 log 34256 23868 Not Found: /favicon.ico
+WARNING 2023-10-28 22:28:20,956 basehttp 34256 23868 "GET /favicon.ico HTTP/1.1" 404 2570
+INFO 2023-10-28 22:31:28,087 basehttp 34256 39604 "GET / HTTP/1.1" 200 1356
+WARNING 2023-10-28 22:31:28,130 log 34256 39608 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:31:28,131 basehttp 34256 39608 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+WARNING 2023-10-28 22:31:28,176 basehttp 34256 39604 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:31:32,443 basehttp 34256 39608 "GET / HTTP/1.1" 200 1356
+WARNING 2023-10-28 22:31:32,486 log 34256 17452 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:31:32,488 basehttp 34256 39608 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:31:32,488 basehttp 34256 17452 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:32:01,302 basehttp 34256 36832 "GET / HTTP/1.1" 200 1356
+WARNING 2023-10-28 22:32:01,357 basehttp 34256 36832 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:32:01,359 log 34256 36996 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:32:01,360 basehttp 34256 36996 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:32:03,518 basehttp 34256 36996 "GET / HTTP/1.1" 200 1363
+WARNING 2023-10-28 22:32:03,576 basehttp 34256 36996 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:32:03,579 log 34256 34508 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:32:03,580 basehttp 34256 34508 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:32:05,609 basehttp 34256 34508 "GET / HTTP/1.1" 200 1363
+WARNING 2023-10-28 22:32:05,652 basehttp 34256 34508 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:32:05,654 log 34256 39344 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:32:05,655 basehttp 34256 39344 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:32:06,833 basehttp 34256 39328 "GET /lunch/ HTTP/1.1" 200 846
+WARNING 2023-10-28 22:32:06,873 basehttp 34256 39328 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:32:19,102 basehttp 34256 39228 "GET / HTTP/1.1" 200 1363
+WARNING 2023-10-28 22:32:19,165 log 34256 38416 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:32:19,166 basehttp 34256 39228 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:32:19,167 basehttp 34256 38416 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:32:20,347 basehttp 34256 38416 "GET /lunch/ HTTP/1.1" 200 846
+WARNING 2023-10-28 22:32:20,386 basehttp 34256 38416 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:21,750 basehttp 34256 39900 "GET / HTTP/1.1" 200 1437
+WARNING 2023-10-28 22:34:21,799 basehttp 34256 39900 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:34:21,802 log 34256 33228 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:34:21,804 basehttp 34256 33228 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:34:24,557 basehttp 34256 33228 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:34:24,586 basehttp 34256 33228 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:26,321 basehttp 34256 34892 "GET / HTTP/1.1" 200 1437
+WARNING 2023-10-28 22:34:26,367 log 34256 39468 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:34:26,367 basehttp 34256 34892 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:34:26,368 basehttp 34256 39468 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:34:26,869 basehttp 34256 39468 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:34:26,896 basehttp 34256 39468 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:27,509 basehttp 34256 39912 "GET / HTTP/1.1" 200 1437
+WARNING 2023-10-28 22:34:27,554 basehttp 34256 39912 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:34:27,555 log 34256 32976 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:34:27,556 basehttp 34256 32976 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:34:28,028 basehttp 34256 32976 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:34:28,060 basehttp 34256 32976 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:35,797 basehttp 34256 4476 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:34:35,831 basehttp 34256 4476 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:36,690 basehttp 34256 21580 "GET / HTTP/1.1" 200 1437
+WARNING 2023-10-28 22:34:36,724 basehttp 34256 21580 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:34:36,725 log 34256 39588 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:34:36,726 basehttp 34256 39588 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:34:37,330 basehttp 34256 39588 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:34:37,361 basehttp 34256 39588 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:34:37,927 basehttp 34256 34020 "GET / HTTP/1.1" 200 1437
+WARNING 2023-10-28 22:34:37,972 log 34256 38960 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:34:37,972 basehttp 34256 34020 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:34:37,973 basehttp 34256 38960 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:18,666 basehttp 34256 38012 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:35:18,706 basehttp 34256 38012 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:35:23,509 basehttp 34256 24308 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:23,542 basehttp 34256 24308 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:23,545 log 34256 31324 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:23,546 basehttp 34256 31324 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:26,169 basehttp 34256 35372 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:26,207 basehttp 34256 35372 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:26,209 log 34256 34536 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:26,209 basehttp 34256 34536 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:27,012 basehttp 34256 34536 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:27,044 log 34256 36868 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:27,045 basehttp 34256 34536 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:27,048 basehttp 34256 36868 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:31,606 basehttp 34256 19912 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:31,636 basehttp 34256 19912 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:31,637 log 34256 8312 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:31,637 basehttp 34256 8312 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:32,515 basehttp 34256 8312 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:32,548 log 34256 36564 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:32,548 basehttp 34256 8312 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:32,549 basehttp 34256 36564 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:35:33,220 basehttp 34256 36564 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:35:33,252 basehttp 34256 36564 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:35:33,254 log 34256 36328 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:35:33,254 basehttp 34256 36328 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:36:27,372 basehttp 34256 34892 "GET / HTTP/1.1" 200 1411
+WARNING 2023-10-28 22:36:27,412 basehttp 34256 34892 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:36:27,413 log 34256 32976 Not Found: /ссылка на изображение
+WARNING 2023-10-28 22:36:27,414 basehttp 34256 32976 "GET /%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 HTTP/1.1" 404 2737
+INFO 2023-10-28 22:36:29,263 basehttp 34256 32976 "GET / HTTP/1.1" 200 1372
+INFO 2023-10-28 22:36:29,306 basehttp 34256 37784 "GET / HTTP/1.1" 200 1372
+WARNING 2023-10-28 22:36:29,309 basehttp 34256 32976 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:36:37,282 basehttp 34256 3160 "GET / HTTP/1.1" 200 1372
+WARNING 2023-10-28 22:36:37,310 basehttp 34256 3160 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:36:37,316 basehttp 34256 29532 "GET / HTTP/1.1" 200 1372
+INFO 2023-10-28 22:36:38,949 basehttp 34256 29532 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:36:38,986 basehttp 34256 29532 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:22,785 basehttp 34256 38312 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:22,815 basehttp 34256 38312 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:26,201 basehttp 34256 37208 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:26,231 basehttp 34256 37208 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:26,974 basehttp 34256 34288 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:27,003 basehttp 34256 34288 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:27,917 basehttp 34256 8672 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:27,941 basehttp 34256 8672 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:37,996 basehttp 34256 31684 "GET / HTTP/1.1" 200 1394
+WARNING 2023-10-28 22:37:38,037 basehttp 34256 31684 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:38,047 basehttp 34256 32100 "GET / HTTP/1.1" 200 1394
+INFO 2023-10-28 22:37:39,931 basehttp 34256 32100 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:39,962 basehttp 34256 32100 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:42,294 basehttp 34256 37620 "GET / HTTP/1.1" 200 1394
+WARNING 2023-10-28 22:37:42,327 basehttp 34256 37620 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:37:42,334 basehttp 34256 38068 "GET / HTTP/1.1" 200 1394
+INFO 2023-10-28 22:37:43,442 basehttp 34256 38068 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:37:43,476 basehttp 34256 38068 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-10-28 22:38:00,397 basehttp 34256 37652 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:38:44,554 basehttp 34256 31308 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-10-28 22:38:44,595 basehttp 34256 31308 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-10-28 22:49:46,872 autoreload 34256 6376 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-10-28 22:49:51,477 autoreload 36556 38672 Watching for file changes with StatReloader
