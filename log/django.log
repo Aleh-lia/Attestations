@@ -394,3 +394,2118 @@ INFO 2023-10-28 22:38:44,554 basehttp 34256 31308 "GET /lunch/ HTTP/1.1" 200 920
 WARNING 2023-10-28 22:38:44,595 basehttp 34256 31308 "GET /static/css/style.css HTTP/1.1" 404 1798
 INFO 2023-10-28 22:49:46,872 autoreload 34256 6376 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
 INFO 2023-10-28 22:49:51,477 autoreload 36556 38672 Watching for file changes with StatReloader
+INFO 2023-11-01 23:07:00,882 autoreload 11232 10988 Watching for file changes with StatReloader
+INFO 2023-11-01 23:07:03,863 basehttp 11232 28064 "GET / HTTP/1.1" 200 1394
+INFO 2023-11-01 23:07:03,931 basehttp 11232 28224 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-01 23:07:04,066 basehttp 11232 28064 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-11-01 23:07:04,131 log 11232 28224 Not Found: /favicon.ico
+WARNING 2023-11-01 23:07:04,131 basehttp 11232 28224 "GET /favicon.ico HTTP/1.1" 404 2570
+INFO 2023-11-01 23:07:07,662 basehttp 11232 28224 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-11-01 23:07:07,699 basehttp 11232 28224 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-11-01 23:07:10,439 basehttp 11232 21852 "GET / HTTP/1.1" 200 1394
+INFO 2023-11-01 23:07:10,472 basehttp 11232 33264 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-01 23:07:10,477 basehttp 11232 21852 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-11-01 23:07:11,406 basehttp 11232 33264 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-11-01 23:07:11,448 basehttp 11232 33264 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-11-01 23:07:11,952 basehttp 11232 22356 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-11-01 23:07:11,981 basehttp 11232 22356 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-11-01 23:07:12,756 basehttp 11232 15236 "GET /lunch/ HTTP/1.1" 200 920
+WARNING 2023-11-01 23:07:12,785 basehttp 11232 15236 "GET /static/css/style.css HTTP/1.1" 404 1798
+INFO 2023-11-01 23:07:13,136 basehttp 11232 18864 "GET / HTTP/1.1" 200 1394
+INFO 2023-11-01 23:07:13,170 basehttp 11232 2284 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-01 23:07:13,174 basehttp 11232 18864 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-11-02 10:26:08,649 log 11232 21784 Not Found: /favicon.ico
+WARNING 2023-11-02 10:26:08,663 basehttp 11232 21784 "GET /favicon.ico HTTP/1.1" 404 2570
+INFO 2023-11-02 10:39:06,526 autoreload 11232 10988 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-02 15:49:12,261 autoreload 32468 20708 Watching for file changes with StatReloader
+INFO 2023-11-02 15:49:16,708 basehttp 32468 21116 "GET / HTTP/1.1" 200 1394
+INFO 2023-11-02 15:49:16,787 basehttp 32468 18728 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-02 15:49:16,994 basehttp 32468 21116 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-11-02 15:49:17,079 log 32468 18728 Not Found: /favicon.ico
+WARNING 2023-11-02 15:49:17,080 basehttp 32468 18728 "GET /favicon.ico HTTP/1.1" 404 2570
+WARNING 2023-11-02 15:49:22,886 log 32468 18728 Not Found: /hg
+WARNING 2023-11-02 15:49:22,886 basehttp 32468 18728 "GET /hg HTTP/1.1" 404 2543
+INFO 2023-11-02 15:49:51,892 autoreload 32468 20708 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-11-02 15:49:52,608 autoreload 13996 28632 Watching for file changes with StatReloader
+WARNING 2023-11-02 15:50:04,031 log 13996 14064 Not Found: /hg
+WARNING 2023-11-02 15:50:04,032 basehttp 13996 14064 "GET /hg HTTP/1.1" 404 179
+INFO 2023-11-02 15:54:12,653 autoreload 13996 28632 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-02 15:54:13,309 autoreload 26836 30008 Watching for file changes with StatReloader
+INFO 2023-11-02 16:51:02,667 autoreload 30020 33088 Watching for file changes with StatReloader
+INFO 2023-11-02 16:51:06,662 basehttp 30020 13656 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-02 16:51:06,959 log 30020 13656 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:51:06,963 basehttp 30020 13656 "GET /static/css/style.css HTTP/1.1" 404 691
+INFO 2023-11-02 16:51:07,036 basehttp 30020 13656 "GET / HTTP/1.1" 200 1394
+WARNING 2023-11-02 16:51:07,159 log 30020 13656 Not Found: /favicon.ico
+WARNING 2023-11-02 16:51:07,176 basehttp 30020 13656 "GET /favicon.ico HTTP/1.1" 404 691
+WARNING 2023-11-02 16:51:15,520 log 30020 1076 Not Found: /fe
+WARNING 2023-11-02 16:51:15,521 basehttp 30020 1076 "GET /fe HTTP/1.1" 404 691
+WARNING 2023-11-02 16:51:15,564 log 30020 1076 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 16:51:15,566 log 30020 18452 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:51:15,567 basehttp 30020 18452 "GET /static/css/style.css HTTP/1.1" 404 691
+WARNING 2023-11-02 16:51:15,567 basehttp 30020 1076 "GET /static/image/404_Page.jpg HTTP/1.1" 404 691
+WARNING 2023-11-02 16:51:54,560 log 30020 5944 Not Found: /fe
+WARNING 2023-11-02 16:51:54,561 basehttp 30020 5944 "GET /fe HTTP/1.1" 404 693
+WARNING 2023-11-02 16:51:54,582 log 30020 5944 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:51:54,583 log 30020 4116 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 16:51:54,584 basehttp 30020 5944 "GET /static/css/style.css HTTP/1.1" 404 693
+WARNING 2023-11-02 16:51:54,585 basehttp 30020 4116 "GET /static/image/404_Page.jpg HTTP/1.1" 404 693
+WARNING 2023-11-02 16:52:51,629 log 30020 4116 Not Found: /fe
+WARNING 2023-11-02 16:52:51,629 basehttp 30020 4116 "GET /fe HTTP/1.1" 404 741
+WARNING 2023-11-02 16:52:51,655 log 30020 4116 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:52:51,656 basehttp 30020 4116 "GET /static/css/style.css HTTP/1.1" 404 741
+WARNING 2023-11-02 16:53:04,698 log 30020 4116 Not Found: /fe
+WARNING 2023-11-02 16:53:04,698 basehttp 30020 4116 "GET /fe HTTP/1.1" 404 692
+WARNING 2023-11-02 16:53:04,721 log 30020 4116 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:53:04,721 log 30020 5944 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 16:53:04,723 basehttp 30020 4116 "GET /static/css/style.css HTTP/1.1" 404 692
+WARNING 2023-11-02 16:53:04,723 basehttp 30020 5944 "GET /static/image/404_Page.jpg HTTP/1.1" 404 692
+WARNING 2023-11-02 16:56:11,060 log 30020 13500 Not Found: /hg
+WARNING 2023-11-02 16:56:11,061 basehttp 30020 13500 "GET /hg HTTP/1.1" 404 692
+WARNING 2023-11-02 16:56:11,083 log 30020 13500 Not Found: /static/css/style.css
+WARNING 2023-11-02 16:56:11,086 log 30020 13432 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 16:56:11,087 basehttp 30020 13432 "GET /static/image/404_Page.jpg HTTP/1.1" 404 692
+WARNING 2023-11-02 16:56:11,087 basehttp 30020 13500 "GET /static/css/style.css HTTP/1.1" 404 692
+INFO 2023-11-02 16:58:45,990 autoreload 30020 33088 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-11-02 16:58:46,757 autoreload 18024 33000 Watching for file changes with StatReloader
+INFO 2023-11-02 17:32:45,704 autoreload 19128 19012 Watching for file changes with StatReloader
+WARNING 2023-11-02 17:32:50,458 log 19128 18804 Not Found: /fe
+WARNING 2023-11-02 17:32:50,459 basehttp 19128 18804 "GET /fe HTTP/1.1" 404 778
+WARNING 2023-11-02 17:32:50,585 log 19128 18804 Not Found: /static/css/style.css
+WARNING 2023-11-02 17:32:50,587 log 19128 27440 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 17:32:50,587 basehttp 19128 18804 "GET /static/css/style.css HTTP/1.1" 404 778
+WARNING 2023-11-02 17:32:50,587 basehttp 19128 27440 "GET /static/image/404_Page.jpg HTTP/1.1" 404 778
+WARNING 2023-11-02 17:33:48,813 log 19128 27440 Not Found: /fe
+WARNING 2023-11-02 17:33:48,813 basehttp 19128 27440 "GET /fe HTTP/1.1" 404 791
+WARNING 2023-11-02 17:33:48,843 log 19128 27440 Not Found: /static/css/style.css
+WARNING 2023-11-02 17:33:48,844 log 19128 18804 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 17:33:48,846 basehttp 19128 27440 "GET /static/css/style.css HTTP/1.1" 404 791
+WARNING 2023-11-02 17:33:48,846 basehttp 19128 18804 "GET /static/image/404_Page.jpg HTTP/1.1" 404 791
+WARNING 2023-11-02 17:33:50,647 log 19128 18804 Not Found: /fe
+WARNING 2023-11-02 17:33:50,648 basehttp 19128 18804 "GET /fe HTTP/1.1" 404 791
+WARNING 2023-11-02 17:33:50,684 log 19128 18804 Not Found: /static/css/style.css
+WARNING 2023-11-02 17:33:50,685 log 19128 27440 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 17:33:50,686 basehttp 19128 18804 "GET /static/css/style.css HTTP/1.1" 404 791
+WARNING 2023-11-02 17:33:50,686 basehttp 19128 27440 "GET /static/image/404_Page.jpg HTTP/1.1" 404 791
+INFO 2023-11-02 17:33:52,710 basehttp 19128 27440 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 17:33:52,731 log 19128 27440 Not Found: /static/css/style.css
+INFO 2023-11-02 17:33:52,733 basehttp 19128 18804 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 17:33:52,733 basehttp 19128 27440 "GET /static/css/style.css HTTP/1.1" 404 791
+INFO 2023-11-02 17:33:54,049 basehttp 19128 27440 "GET /lunch/ HTTP/1.1" 200 1019
+WARNING 2023-11-02 17:33:54,081 log 19128 27440 Not Found: /static/css/style.css
+WARNING 2023-11-02 17:33:54,082 basehttp 19128 27440 "GET /static/css/style.css HTTP/1.1" 404 791
+INFO 2023-11-02 17:33:55,314 basehttp 19128 27440 "GET /lunch/ HTTP/1.1" 200 1019
+WARNING 2023-11-02 17:33:55,336 log 19128 27440 Not Found: /static/css/style.css
+WARNING 2023-11-02 17:33:55,337 basehttp 19128 27440 "GET /static/css/style.css HTTP/1.1" 404 791
+INFO 2023-11-02 17:33:55,956 basehttp 19128 27440 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 17:33:55,986 log 19128 27440 Not Found: /static/css/style.css
+INFO 2023-11-02 17:33:55,988 basehttp 19128 18804 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 17:33:55,988 basehttp 19128 27440 "GET /static/css/style.css HTTP/1.1" 404 791
+INFO 2023-11-02 20:27:40,360 autoreload 19128 19012 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-11-02 20:28:58,908 autoreload 27548 31896 Watching for file changes with StatReloader
+INFO 2023-11-02 20:29:47,997 autoreload 27548 31896 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-11-02 20:29:48,769 autoreload 11924 4952 Watching for file changes with StatReloader
+INFO 2023-11-02 20:32:11,120 autoreload 11924 4952 K:\GeekBrains\Python Web Development\Attestations\Attestations\urls.py changed, reloading.
+INFO 2023-11-02 20:32:11,768 autoreload 5584 1392 Watching for file changes with StatReloader
+INFO 2023-11-02 20:33:11,393 autoreload 5584 1392 K:\GeekBrains\Python Web Development\Attestations\Attestations\urls.py changed, reloading.
+INFO 2023-11-02 20:33:12,046 autoreload 27624 23308 Watching for file changes with StatReloader
+INFO 2023-11-02 20:33:14,432 basehttp 27624 29276 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 20:33:14,459 log 27624 29276 Not Found: /static/css/style.css
+WARNING 2023-11-02 20:33:14,460 basehttp 27624 29276 "GET /static/css/style.css HTTP/1.1" 404 791
+INFO 2023-11-02 20:33:14,501 basehttp 27624 29276 "GET / HTTP/1.1" 200 1493
+WARNING 2023-11-02 20:33:20,372 log 27624 29276 Not Found: /52
+WARNING 2023-11-02 20:33:20,373 basehttp 27624 29276 "GET /52 HTTP/1.1" 404 791
+WARNING 2023-11-02 20:33:20,404 log 27624 29276 Not Found: /static/css/style.css
+WARNING 2023-11-02 20:33:20,406 log 27624 19820 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 20:33:20,406 basehttp 27624 29276 "GET /static/css/style.css HTTP/1.1" 404 791
+WARNING 2023-11-02 20:33:20,407 basehttp 27624 19820 "GET /static/image/404_Page.jpg HTTP/1.1" 404 791
+INFO 2023-11-02 20:34:19,104 autoreload 27624 23308 K:\GeekBrains\Python Web Development\Attestations\Attestations\urls.py changed, reloading.
+INFO 2023-11-02 20:34:19,941 autoreload 5508 27840 Watching for file changes with StatReloader
+INFO 2023-11-02 20:36:33,187 autoreload 5508 27840 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-02 20:36:34,015 autoreload 25244 4264 Watching for file changes with StatReloader
+INFO 2023-11-02 20:37:29,576 autoreload 25244 4264 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-02 20:37:30,268 autoreload 31144 13804 Watching for file changes with StatReloader
+INFO 2023-11-02 20:48:23,143 autoreload 30808 27024 Watching for file changes with StatReloader
+INFO 2023-11-02 21:22:59,727 autoreload 30808 27024 K:\GeekBrains\Python Web Development\Attestations\Attestations\settings.py changed, reloading.
+INFO 2023-11-02 21:23:01,813 autoreload 8232 21416 Watching for file changes with StatReloader
+INFO 2023-11-02 21:24:12,710 basehttp 8232 24548 "GET / HTTP/1.1" 200 1494
+WARNING 2023-11-02 21:24:12,737 log 8232 24548 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:24:12,738 basehttp 8232 24548 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:24:12,769 basehttp 8232 24548 "GET / HTTP/1.1" 200 1494
+INFO 2023-11-02 21:24:14,225 basehttp 8232 30048 "GET /lunch/ HTTP/1.1" 200 1020
+WARNING 2023-11-02 21:24:14,258 log 8232 30048 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:24:14,258 basehttp 8232 30048 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:24:18,195 basehttp 8232 30048 "GET / HTTP/1.1" 200 1494
+WARNING 2023-11-02 21:24:18,230 log 8232 30048 Not Found: /static/css/style.css
+INFO 2023-11-02 21:24:18,232 basehttp 8232 8440 "GET / HTTP/1.1" 200 1494
+WARNING 2023-11-02 21:24:18,232 basehttp 8232 30048 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:24:19,034 basehttp 8232 30048 "GET /lunch/ HTTP/1.1" 200 1020
+WARNING 2023-11-02 21:24:19,071 log 8232 30048 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:24:19,072 basehttp 8232 30048 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:24:20,592 basehttp 8232 30048 "GET /lunch/ HTTP/1.1" 200 1020
+WARNING 2023-11-02 21:24:20,613 log 8232 30048 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:24:20,614 basehttp 8232 30048 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:24:25,357 basehttp 8232 3960 "GET / HTTP/1.1" 200 1494
+WARNING 2023-11-02 21:24:25,389 log 8232 3960 Not Found: /static/css/style.css
+INFO 2023-11-02 21:24:25,390 basehttp 8232 29936 "GET / HTTP/1.1" 200 1494
+WARNING 2023-11-02 21:24:25,390 basehttp 8232 3960 "GET /static/css/style.css HTTP/1.1" 404 792
+INFO 2023-11-02 21:26:41,803 basehttp 8232 8036 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:41,828 log 8232 8036 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:26:41,830 basehttp 8232 8036 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:41,868 basehttp 8232 8036 "GET / HTTP/1.1" 200 1489
+INFO 2023-11-02 21:26:42,828 basehttp 8232 8036 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:42,851 log 8232 8036 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:26:42,851 basehttp 8232 8036 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:42,854 basehttp 8232 2976 "GET / HTTP/1.1" 200 1489
+INFO 2023-11-02 21:26:45,721 basehttp 8232 25576 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:45,744 log 8232 25576 Not Found: /static/css/style.css
+INFO 2023-11-02 21:26:45,745 basehttp 8232 17936 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:45,746 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:46,904 basehttp 8232 25576 "GET /lunch/ HTTP/1.1" 200 1015
+WARNING 2023-11-02 21:26:46,938 log 8232 25576 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:26:46,939 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:48,078 basehttp 8232 25576 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:48,112 log 8232 25576 Not Found: /static/css/style.css
+INFO 2023-11-02 21:26:48,113 basehttp 8232 17936 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:48,113 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:48,678 basehttp 8232 25576 "GET /lunch/ HTTP/1.1" 200 1015
+WARNING 2023-11-02 21:26:48,710 log 8232 25576 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:26:48,711 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:49,576 basehttp 8232 25576 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:49,609 log 8232 25576 Not Found: /static/css/style.css
+INFO 2023-11-02 21:26:49,611 basehttp 8232 17936 "GET / HTTP/1.1" 200 1489
+WARNING 2023-11-02 21:26:49,611 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 21:26:50,175 basehttp 8232 25576 "GET /lunch/ HTTP/1.1" 200 1015
+WARNING 2023-11-02 21:26:50,206 log 8232 25576 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:26:50,208 basehttp 8232 25576 "GET /static/css/style.css HTTP/1.1" 404 787
+WARNING 2023-11-02 21:27:04,520 log 8232 8740 Not Found: /lunch/ok
+WARNING 2023-11-02 21:27:04,521 basehttp 8232 8740 "GET /lunch/ok HTTP/1.1" 404 787
+WARNING 2023-11-02 21:27:04,567 log 8232 8740 Not Found: /static/css/style.css
+WARNING 2023-11-02 21:27:04,573 log 8232 20128 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 21:27:04,573 basehttp 8232 8740 "GET /static/css/style.css HTTP/1.1" 404 787
+WARNING 2023-11-02 21:27:04,574 basehttp 8232 20128 "GET /static/image/404_Page.jpg HTTP/1.1" 404 787
+INFO 2023-11-02 21:33:38,925 autoreload 8232 21416 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-02 21:33:39,560 autoreload 18848 14796 Watching for file changes with StatReloader
+INFO 2023-11-02 22:12:48,998 autoreload 27804 31624 Watching for file changes with StatReloader
+WARNING 2023-11-02 22:12:53,432 log 27804 3776 Not Found: /lunch/ok
+WARNING 2023-11-02 22:12:53,433 basehttp 27804 3776 "GET /lunch/ok HTTP/1.1" 404 787
+WARNING 2023-11-02 22:12:53,468 log 27804 3776 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:12:53,470 log 27804 24756 Not Found: /static/image/404_Page.jpg
+WARNING 2023-11-02 22:12:53,471 basehttp 27804 3776 "GET /static/css/style.css HTTP/1.1" 404 787
+WARNING 2023-11-02 22:12:53,471 basehttp 27804 24756 "GET /static/image/404_Page.jpg HTTP/1.1" 404 787
+INFO 2023-11-02 22:12:55,728 basehttp 27804 24756 "GET / HTTP/1.1" 200 740
+WARNING 2023-11-02 22:12:55,749 log 27804 24756 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:12:55,749 basehttp 27804 24756 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:12:57,866 basehttp 27804 24756 "GET /lunch/ HTTP/1.1" 200 1015
+WARNING 2023-11-02 22:12:57,898 log 27804 24756 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:12:57,898 basehttp 27804 24756 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:14:08,365 autoreload 27804 31624 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-02 22:14:09,216 autoreload 15408 5800 Watching for file changes with StatReloader
+INFO 2023-11-02 22:14:13,047 basehttp 15408 14888 "GET / HTTP/1.1" 200 1574
+WARNING 2023-11-02 22:14:13,086 log 15408 14888 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:14:13,087 log 15408 32000 Not Found: /recipes/image/404_Page.jpg
+WARNING 2023-11-02 22:14:13,088 basehttp 15408 32000 "GET /recipes/image/404_Page.jpg HTTP/1.1" 404 787
+WARNING 2023-11-02 22:14:13,088 basehttp 15408 14888 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:14:15,886 basehttp 15408 32000 "GET /dinner/ HTTP/1.1" 200 743
+WARNING 2023-11-02 22:14:15,919 log 15408 32000 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:14:15,919 basehttp 15408 32000 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:15:07,036 autoreload 15408 5800 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-02 22:15:07,695 autoreload 20396 22880 Watching for file changes with StatReloader
+INFO 2023-11-02 22:18:07,835 autoreload 20396 22880 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-02 22:18:09,852 autoreload 12832 24580 Watching for file changes with StatReloader
+INFO 2023-11-02 22:18:13,756 basehttp 12832 32836 "GET /dinner/ HTTP/1.1" 200 743
+WARNING 2023-11-02 22:18:13,775 log 12832 32836 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:18:13,775 basehttp 12832 32836 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:22:05,744 autoreload 12832 24580 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-02 22:22:07,723 autoreload 18812 29536 Watching for file changes with StatReloader
+INFO 2023-11-02 22:22:08,314 basehttp 18812 24856 "GET /dinner/ HTTP/1.1" 200 860
+WARNING 2023-11-02 22:22:08,335 log 18812 24856 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:22:08,335 basehttp 18812 24856 "GET /static/css/style.css HTTP/1.1" 404 787
+INFO 2023-11-02 22:23:25,962 basehttp 18812 32440 "GET /dinner/ HTTP/1.1" 200 1394
+WARNING 2023-11-02 22:23:25,989 log 18812 32440 Not Found: /static/css/style.css
+WARNING 2023-11-02 22:23:25,990 basehttp 18812 32440 "GET /static/css/style.css HTTP/1.1" 404 787
+WARNING 2023-11-03 21:43:05,885 log 18812 5812 Not Found: /favicon.ico
+WARNING 2023-11-03 21:43:05,887 basehttp 18812 5812 "GET /favicon.ico HTTP/1.1" 404 787
+WARNING 2023-11-03 22:01:13,205 log 18812 5600 Not Found: /static/css/style.css
+WARNING 2023-11-03 22:01:13,259 basehttp 18812 5600 "GET /static/css/style.css HTTP/1.1" 404 787
+WARNING 2023-11-03 22:01:13,450 log 18812 5600 Not Found: /favicon.ico
+WARNING 2023-11-03 22:01:13,462 basehttp 18812 5600 "GET /favicon.ico HTTP/1.1" 404 787
+INFO 2023-11-04 22:31:45,991 autoreload 14824 10836 Watching for file changes with StatReloader
+WARNING 2023-11-04 22:32:26,130 basehttp 14824 2420 "GET /static/css/style.css HTTP/1.1" 404 1798
+WARNING 2023-11-04 22:32:26,207 log 14824 10816 Not Found: /favicon.ico
+WARNING 2023-11-04 22:32:26,207 basehttp 14824 10816 "GET /favicon.ico HTTP/1.1" 404 2739
+ERROR 2023-11-04 22:54:54,437 log 14824 17560 Internal Server Error: /lunch/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 19, in lunch
+    return render(request, 'recipes/lunch.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+ERROR 2023-11-04 22:54:54,443 basehttp 14824 17560 "GET /lunch/ HTTP/1.1" 500 157158
+ERROR 2023-11-04 22:55:02,211 log 14824 16624 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 12, in index
+    return render(request, 'recipes/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+ERROR 2023-11-04 22:55:02,215 basehttp 14824 16624 "GET / HTTP/1.1" 500 156453
+ERROR 2023-11-04 22:56:43,493 log 14824 11132 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 12, in index
+    return render(request, 'recipes/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+ERROR 2023-11-04 22:56:43,496 basehttp 14824 11132 "GET / HTTP/1.1" 500 155930
+ERROR 2023-11-04 22:57:20,120 log 14824 5392 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 12, in index
+    return render(request, 'recipes/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+ERROR 2023-11-04 22:57:20,125 basehttp 14824 5392 "GET / HTTP/1.1" 500 155930
+INFO 2023-11-04 22:57:20,590 autoreload 14824 10836 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-04 22:57:22,749 autoreload 18384 17788 Watching for file changes with StatReloader
+ERROR 2023-11-04 22:57:23,440 log 18384 17756 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 12, in index
+    return render(request, 'recipes/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'register' not found. 'register' is not a valid view function or pattern name.
+ERROR 2023-11-04 22:57:23,445 basehttp 18384 17756 "GET / HTTP/1.1" 500 168483
+INFO 2023-11-04 23:05:28,319 autoreload 18384 17788 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-04 23:05:29,206 autoreload 17460 3060 Watching for file changes with StatReloader
+INFO 2023-11-04 23:13:27,086 autoreload 17460 3060 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-04 23:13:27,851 autoreload 17708 12156 Watching for file changes with StatReloader
+INFO 2023-11-04 23:16:52,004 autoreload 17708 12156 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-04 23:16:52,620 autoreload 17696 16516 Watching for file changes with StatReloader
+INFO 2023-11-04 23:17:24,497 autoreload 17696 16516 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-04 23:17:25,104 autoreload 7324 17416 Watching for file changes with StatReloader
+ERROR 2023-11-04 23:17:30,549 log 7324 17960 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 27, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Home' object has no attribute 'get_user_context'
+ERROR 2023-11-04 23:17:30,553 basehttp 7324 17960 "GET / HTTP/1.1" 500 86511
+INFO 2023-11-04 23:24:39,852 autoreload 10356 17900 Watching for file changes with StatReloader
+ERROR 2023-11-04 23:24:55,736 log 10356 11452 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 27, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Home' object has no attribute 'get_user_context'
+ERROR 2023-11-04 23:24:55,741 basehttp 10356 11452 "GET / HTTP/1.1" 500 86511
+INFO 2023-11-04 23:35:53,843 autoreload 10356 17900 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-04 23:35:55,991 autoreload 8772 10564 Watching for file changes with StatReloader
+INFO 2023-11-04 23:36:04,419 autoreload 8772 10564 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-04 23:36:05,007 autoreload 8588 7644 Watching for file changes with StatReloader
+ERROR 2023-11-04 23:36:09,675 log 8588 18344 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 26, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('women'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'women' into field. Choices are: id, name, recipescategory, slug
+ERROR 2023-11-04 23:36:09,681 basehttp 8588 18344 "GET / HTTP/1.1" 500 139292
+INFO 2023-11-04 23:36:34,027 basehttp 8588 18344 "GET /admin HTTP/1.1" 301 0
+INFO 2023-11-04 23:36:34,059 basehttp 8588 18024 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-04 23:36:34,227 basehttp 8588 18024 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4264
+INFO 2023-11-04 23:36:34,485 basehttp 8588 18024 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-11-04 23:36:34,495 basehttp 8588 15144 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-11-04 23:36:34,497 basehttp 8588 10748 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-11-04 23:36:34,506 basehttp 8588 18024 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-11-04 23:36:34,507 basehttp 8588 15200 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-11-04 23:36:34,507 basehttp 8588 17020 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-11-04 23:36:34,508 basehttp 8588 18156 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-11-04 23:43:37,476 autoreload 18132 2392 Watching for file changes with StatReloader
+INFO 2023-11-04 23:43:53,605 basehttp 18132 2420 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-11-04 23:43:53,989 basehttp 18132 2420 "GET /admin/ HTTP/1.1" 200 5848
+INFO 2023-11-04 23:43:54,070 basehttp 18132 2420 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-11-04 23:43:54,103 basehttp 18132 13056 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-11-04 23:43:54,111 basehttp 18132 2420 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+ERROR 2023-11-04 23:44:14,656 log 18132 17760 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 26, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('women'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'women' into field. Choices are: id, name, recipescategory, slug
+ERROR 2023-11-04 23:44:14,662 basehttp 18132 17760 "GET / HTTP/1.1" 500 139452
+INFO 2023-11-04 23:47:23,573 autoreload 18132 2392 K:\GeekBrains\Python Web Development\Attestations\recipes\admin.py changed, reloading.
+INFO 2023-11-04 23:47:24,436 autoreload 15404 18136 Watching for file changes with StatReloader
+INFO 2023-11-04 23:48:00,810 autoreload 15404 18136 K:\GeekBrains\Python Web Development\Attestations\recipes\admin.py changed, reloading.
+INFO 2023-11-04 23:48:01,481 autoreload 14860 17724 Watching for file changes with StatReloader
+INFO 2023-11-05 11:23:27,920 basehttp 14860 13488 "GET /admin/ HTTP/1.1" 200 7026
+INFO 2023-11-05 11:26:16,773 basehttp 14860 12340 "GET /admin/recipes/recipes/ HTTP/1.1" 200 10274
+INFO 2023-11-05 11:26:16,861 basehttp 14860 1700 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:26:17,001 basehttp 14860 12340 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-11-05 11:26:17,004 basehttp 14860 3548 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-11-05 11:26:17,011 basehttp 14860 18912 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-11-05 11:26:17,058 basehttp 14860 3548 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-11-05 11:26:17,059 basehttp 14860 20148 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-11-05 11:26:17,064 basehttp 14860 1700 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-11-05 11:26:17,072 basehttp 14860 18912 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-11-05 11:26:17,072 basehttp 14860 12340 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-11-05 11:26:17,073 basehttp 14860 3548 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-11-05 11:26:17,079 basehttp 14860 1700 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-11-05 11:26:17,133 basehttp 14860 20148 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-11-05 11:26:17,141 basehttp 14860 20060 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-11-05 11:26:17,169 basehttp 14860 20148 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-11-05 11:26:17,194 basehttp 14860 20148 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+ERROR 2023-11-05 11:28:46,144 log 14860 20148 Internal Server Error: /admin/recipes/recipes/add/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (cat, photo, content) specified for Recipes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (cat, photo, content) specified for Recipes. Check fields/fieldsets/exclude attributes of class RecipesAdmin.
+ERROR 2023-11-05 11:28:46,149 basehttp 14860 20148 "GET /admin/recipes/recipes/add/ HTTP/1.1" 500 139479
+INFO 2023-11-05 11:28:57,606 basehttp 14860 20148 "GET /admin/recipes/recipes/ HTTP/1.1" 200 10274
+INFO 2023-11-05 11:29:01,629 basehttp 14860 20148 "GET /admin/recipes/ HTTP/1.1" 200 5793
+INFO 2023-11-05 11:29:03,844 basehttp 14860 20148 "GET /admin/ HTTP/1.1" 200 7026
+INFO 2023-11-05 11:29:15,724 basehttp 14860 20148 "GET /admin/recipes/recipes/ HTTP/1.1" 200 10274
+INFO 2023-11-05 11:29:15,755 basehttp 14860 20148 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:32:36,184 autoreload 14860 17724 K:\GeekBrains\Python Web Development\Attestations\recipes\apps.py changed, reloading.
+INFO 2023-11-05 11:32:39,848 autoreload 17844 19844 Watching for file changes with StatReloader
+INFO 2023-11-05 11:32:46,110 basehttp 17844 14044 "GET /admin/recipes/recipes/ HTTP/1.1" 200 10295
+INFO 2023-11-05 11:32:46,142 basehttp 17844 14044 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:33:04,497 basehttp 17844 14044 "GET /admin/recipes/ HTTP/1.1" 200 5828
+INFO 2023-11-05 11:34:07,735 basehttp 17844 14044 "GET /admin/recipes/recipes/ HTTP/1.1" 200 10295
+INFO 2023-11-05 11:34:07,783 basehttp 17844 14044 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:34:22,420 basehttp 17844 14044 "GET /admin/recipes/ HTTP/1.1" 200 5828
+INFO 2023-11-05 11:34:24,693 basehttp 17844 14044 "GET /admin/recipes/category/ HTTP/1.1" 200 8563
+INFO 2023-11-05 11:34:24,728 basehttp 17844 14044 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:36:34,201 basehttp 17844 14044 "GET /admin/auth/group/add/ HTTP/1.1" 200 13202
+INFO 2023-11-05 11:36:34,240 basehttp 17844 14044 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:36:34,348 basehttp 17844 4144 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-11-05 11:36:34,371 basehttp 17844 19300 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-11-05 11:36:34,384 basehttp 17844 4320 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-11-05 11:36:34,388 basehttp 17844 19300 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-11-05 11:36:34,509 basehttp 17844 19300 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-11-05 11:36:34,510 basehttp 17844 4144 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-11-05 11:36:34,521 basehttp 17844 4320 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-11-05 11:36:47,369 basehttp 17844 4320 "GET /admin/recipes/category/ HTTP/1.1" 200 8563
+INFO 2023-11-05 11:36:47,399 basehttp 17844 4320 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:36:49,546 basehttp 17844 4320 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 11:36:49,573 basehttp 17844 4320 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:37:10,937 basehttp 17844 4320 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 11:37:11,252 basehttp 17844 4320 "GET /admin/recipes/category/ HTTP/1.1" 200 10580
+INFO 2023-11-05 11:37:11,285 basehttp 17844 4320 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:37:11,308 basehttp 17844 4320 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-11-05 11:37:11,334 basehttp 17844 4144 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2023-11-05 11:37:30,295 basehttp 17844 4144 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 11:37:30,324 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:38:10,002 basehttp 17844 4144 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 11:38:10,017 basehttp 17844 4144 "GET /admin/recipes/category/ HTTP/1.1" 200 10875
+INFO 2023-11-05 11:38:10,053 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:38:30,574 basehttp 17844 4144 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 11:38:30,599 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:38:43,914 basehttp 17844 4144 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 11:38:43,930 basehttp 17844 4144 "GET /admin/recipes/category/ HTTP/1.1" 200 11152
+INFO 2023-11-05 11:38:43,962 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:38:50,711 basehttp 17844 4144 "GET /admin/recipes/category/1/change/ HTTP/1.1" 200 10268
+INFO 2023-11-05 11:38:50,741 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:38:50,766 basehttp 17844 4144 "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+INFO 2023-11-05 11:38:54,593 basehttp 17844 4144 "POST /admin/recipes/category/1/change/ HTTP/1.1" 302 0
+INFO 2023-11-05 11:38:54,609 basehttp 17844 4144 "GET /admin/recipes/category/ HTTP/1.1" 200 11154
+INFO 2023-11-05 11:38:54,645 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:39:02,830 basehttp 17844 4144 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 11:39:02,857 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 11:39:13,703 basehttp 17844 4144 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 11:39:13,736 basehttp 17844 4144 "GET /admin/recipes/category/ HTTP/1.1" 200 11443
+INFO 2023-11-05 11:39:13,781 basehttp 17844 4144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-11-05 11:39:18,376 log 17844 4144 Internal Server Error: /admin/recipes/recipes/add/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (content, cat, photo) specified for Recipes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (content, cat, photo) specified for Recipes. Check fields/fieldsets/exclude attributes of class RecipesAdmin.
+ERROR 2023-11-05 11:39:18,382 basehttp 17844 4144 "GET /admin/recipes/recipes/add/ HTTP/1.1" 500 139480
+INFO 2023-11-05 11:41:22,731 autoreload 17844 19844 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-05 11:41:24,503 autoreload 20968 5628 Watching for file changes with StatReloader
+INFO 2023-11-05 11:46:51,957 autoreload 20968 5628 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 11:46:52,569 autoreload 22512 10960 Watching for file changes with StatReloader
+INFO 2023-11-05 11:47:49,216 autoreload 22512 10960 K:\GeekBrains\Python Web Development\Attestations\recipes\forms.py changed, reloading.
+INFO 2023-11-05 11:47:49,823 autoreload 17440 20368 Watching for file changes with StatReloader
+INFO 2023-11-05 11:58:07,468 autoreload 17440 20368 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-05 11:58:08,396 autoreload 12380 4664 Watching for file changes with StatReloader
+INFO 2023-11-05 11:59:27,245 autoreload 18948 17868 Watching for file changes with StatReloader
+INFO 2023-11-05 12:01:44,719 autoreload 20064 19804 Watching for file changes with StatReloader
+INFO 2023-11-05 12:02:33,964 autoreload 8808 9676 Watching for file changes with StatReloader
+INFO 2023-11-05 12:03:14,373 autoreload 13056 17020 Watching for file changes with StatReloader
+INFO 2023-11-05 12:05:53,732 autoreload 13056 17020 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-05 12:05:54,352 autoreload 15248 12300 Watching for file changes with StatReloader
+INFO 2023-11-05 12:16:33,978 autoreload 18792 18076 Watching for file changes with StatReloader
+INFO 2023-11-05 12:16:50,497 autoreload 18792 18076 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-05 12:16:51,066 autoreload 22160 6692 Watching for file changes with StatReloader
+INFO 2023-11-05 12:17:13,686 autoreload 22160 6692 K:\GeekBrains\Python Web Development\Attestations\Attestations\urls.py changed, reloading.
+INFO 2023-11-05 12:17:14,316 autoreload 18336 18172 Watching for file changes with StatReloader
+INFO 2023-11-05 12:17:47,972 autoreload 19216 19824 Watching for file changes with StatReloader
+INFO 2023-11-05 12:17:53,400 basehttp 19216 11496 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-05 12:17:53,573 basehttp 19216 11496 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4277
+INFO 2023-11-05 12:19:11,977 autoreload 8824 1908 Watching for file changes with StatReloader
+INFO 2023-11-05 12:19:33,628 basehttp 8824 12628 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-11-05 12:19:33,993 basehttp 8824 12628 "GET /admin/ HTTP/1.1" 200 7040
+ERROR 2023-11-05 12:19:41,728 log 8824 12628 Internal Server Error: /admin/recipes/recipes/add/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (content, photo) specified for Recipes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (content, photo) specified for Recipes. Check fields/fieldsets/exclude attributes of class RecipesAdmin.
+ERROR 2023-11-05 12:19:41,733 basehttp 8824 12628 "GET /admin/recipes/recipes/add/ HTTP/1.1" 500 139463
+INFO 2023-11-05 12:50:02,138 basehttp 8824 6008 "GET /admin/ HTTP/1.1" 200 7040
+INFO 2023-11-05 12:50:06,411 basehttp 8824 6008 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 12:50:06,457 basehttp 8824 6008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 12:50:11,945 basehttp 8824 6008 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 12:50:12,049 basehttp 8824 6008 "GET /admin/recipes/category/ HTTP/1.1" 200 10580
+INFO 2023-11-05 12:50:12,084 basehttp 8824 6008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 12:50:19,840 basehttp 8824 6008 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 12:50:19,873 basehttp 8824 6008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 12:50:24,931 basehttp 8824 6008 "POST /admin/recipes/category/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 12:50:24,947 basehttp 8824 6008 "GET /admin/recipes/category/ HTTP/1.1" 200 10875
+INFO 2023-11-05 12:50:24,977 basehttp 8824 6008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 12:50:30,332 basehttp 8824 6008 "GET /admin/recipes/category/add/ HTTP/1.1" 200 9948
+INFO 2023-11-05 12:50:30,365 basehttp 8824 6008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-11-05 12:50:47,885 log 8824 6008 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'recipes_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'recipes_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-05 12:50:47,890 basehttp 8824 6008 "GET / HTTP/1.1" 500 227949
+INFO 2023-11-05 12:59:41,178 autoreload 8824 1908 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-05 12:59:43,837 autoreload 17308 21924 Watching for file changes with StatReloader
+INFO 2023-11-05 13:01:03,158 autoreload 17308 21924 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 13:01:03,796 autoreload 22032 14248 Watching for file changes with StatReloader
+ERROR 2023-11-05 13:01:16,272 log 22032 8976 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'about' not found. 'about' is not a valid view function or pattern name.
+ERROR 2023-11-05 13:01:16,277 basehttp 22032 8976 "GET / HTTP/1.1" 500 176192
+INFO 2023-11-05 13:59:14,610 autoreload 20848 3060 Watching for file changes with StatReloader
+ERROR 2023-11-05 13:59:28,781 log 20848 14136 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: recipes_recipes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 23, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 128, in get_context_data
+    paginator, page, queryset, is_paginated = self.paginate_queryset(
+                                              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 73, in paginate_queryset
+    page = paginator.page(page_number)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+           ^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\coding\django\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\coding\django\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: recipes_recipes
+ERROR 2023-11-05 13:59:28,790 basehttp 20848 14136 "GET / HTTP/1.1" 500 182049
+INFO 2023-11-05 14:11:40,215 autoreload 20848 3060 K:\GeekBrains\Python Web Development\Attestations\recipes\urls.py changed, reloading.
+INFO 2023-11-05 14:11:41,371 autoreload 14276 16372 Watching for file changes with StatReloader
+INFO 2023-11-05 16:37:59,140 autoreload 18204 22120 Watching for file changes with StatReloader
+INFO 2023-11-05 16:38:15,798 autoreload 18204 22120 K:\GeekBrains\Python Web Development\Attestations\recipes\forms.py changed, reloading.
+INFO 2023-11-05 16:38:16,376 autoreload 7500 18072 Watching for file changes with StatReloader
+INFO 2023-11-05 16:39:01,579 autoreload 20964 3084 Watching for file changes with StatReloader
+ERROR 2023-11-05 16:41:41,013 log 20964 4732 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 22, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:41:41,018 basehttp 20964 4732 "GET / HTTP/1.1" 500 139732
+INFO 2023-11-05 16:41:53,531 basehttp 20964 1468 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-05 16:41:53,743 basehttp 20964 1468 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4285
+INFO 2023-11-05 16:41:53,781 basehttp 20964 1468 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,787 basehttp 20964 18912 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,787 basehttp 20964 1468 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,789 basehttp 20964 19464 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,791 basehttp 20964 9512 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,791 basehttp 20964 18516 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-11-05 16:41:53,792 basehttp 20964 7652 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2023-11-05 16:42:05,350 basehttp 20964 20324 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4552
+INFO 2023-11-05 16:42:17,733 basehttp 20964 11384 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-11-05 16:42:18,086 basehttp 20964 11384 "GET /admin/ HTTP/1.1" 200 7059
+INFO 2023-11-05 16:42:27,643 basehttp 20964 22164 "GET /admin/recipes/women/ HTTP/1.1" 200 10413
+INFO 2023-11-05 16:42:27,696 basehttp 20964 22164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:42:31,559 basehttp 20964 22164 "GET /admin/recipes/category/ HTTP/1.1" 200 8584
+INFO 2023-11-05 16:42:31,593 basehttp 20964 22164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:42:33,422 basehttp 20964 17372 "GET /admin/recipes/women/ HTTP/1.1" 200 10413
+INFO 2023-11-05 16:42:33,447 basehttp 20964 17372 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:42:35,195 basehttp 20964 17372 "GET /admin/recipes/women/add/ HTTP/1.1" 200 16036
+INFO 2023-11-05 16:42:35,233 basehttp 20964 17372 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:42:35,389 basehttp 20964 19616 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-11-05 16:42:35,389 basehttp 20964 19360 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2023-11-05 16:43:32,855 basehttp 20964 17852 "GET /admin/recipes/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 5370
+INFO 2023-11-05 16:43:32,901 basehttp 20964 17852 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:44:03,678 basehttp 20964 14904 "POST /admin/recipes/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 397
+INFO 2023-11-05 16:44:04,002 basehttp 20964 14904 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2023-11-05 16:46:47,596 basehttp 20964 18400 "POST /admin/recipes/women/add/ HTTP/1.1" 302 0
+INFO 2023-11-05 16:46:47,641 basehttp 20964 18400 "GET /admin/recipes/women/ HTTP/1.1" 200 13539
+INFO 2023-11-05 16:46:47,685 basehttp 20964 18400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-05 16:46:47,688 basehttp 20964 13612 "GET /media/photos/2023/11/05/salat-cezar-klassicheskii-s-kuricei.jpg HTTP/1.1" 200 190987
+INFO 2023-11-05 16:46:47,710 basehttp 20964 13612 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+ERROR 2023-11-05 16:47:06,741 log 20964 13544 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 22, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:47:06,745 basehttp 20964 13544 "GET / HTTP/1.1" 500 139994
+INFO 2023-11-05 16:49:12,809 autoreload 20964 3084 K:\GeekBrains\Python Web Development\Attestations\Attestations\urls.py changed, reloading.
+INFO 2023-11-05 16:50:33,393 autoreload 15584 5044 Watching for file changes with StatReloader
+INFO 2023-11-05 16:51:07,707 autoreload 15584 5044 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 16:51:08,357 autoreload 5672 21844 Watching for file changes with StatReloader
+ERROR 2023-11-05 16:51:10,124 log 5672 22392 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 23, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:51:10,129 basehttp 5672 22392 "GET / HTTP/1.1" 500 140133
+INFO 2023-11-05 16:53:31,533 autoreload 5672 21844 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 16:53:32,133 autoreload 17268 20920 Watching for file changes with StatReloader
+ERROR 2023-11-05 16:53:32,657 log 17268 20012 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:53:32,662 basehttp 17268 20012 "GET / HTTP/1.1" 500 140133
+INFO 2023-11-05 16:57:30,273 autoreload 17268 20920 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 16:57:30,912 autoreload 20844 18152 Watching for file changes with StatReloader
+ERROR 2023-11-05 16:57:48,047 log 20844 19036 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:57:48,053 basehttp 20844 19036 "GET / HTTP/1.1" 500 139977
+INFO 2023-11-05 16:58:21,736 basehttp 20844 16456 "GET /about/ HTTP/1.1" 200 2184
+INFO 2023-11-05 16:58:21,817 basehttp 20844 16456 "GET /static/recipes/css/style.css HTTP/1.1" 200 8321
+INFO 2023-11-05 16:58:21,845 basehttp 20844 16456 "GET /static/recipes/image/burger_fast_food_icon_256943.png HTTP/1.1" 200 2676
+INFO 2023-11-05 16:58:21,846 basehttp 20844 20612 "GET /static/recipes/image/share_yt.png HTTP/1.1" 200 14175
+ERROR 2023-11-05 16:58:36,040 log 20844 16024 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:58:36,044 basehttp 20844 16024 "GET / HTTP/1.1" 500 139997
+ERROR 2023-11-05 16:58:41,015 log 20844 16024 Internal Server Error: /addpage/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\edit.py", line 180, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 45, in get_context_data
+    c_def = self.get_user_context(title="Добавление статьи")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:58:41,019 basehttp 20844 16024 "GET /addpage/ HTTP/1.1" 500 148483
+ERROR 2023-11-05 16:58:46,506 log 20844 8952 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:58:46,510 basehttp 20844 8952 "GET / HTTP/1.1" 500 139997
+ERROR 2023-11-05 16:58:56,384 log 20844 19360 Internal Server Error: /contact/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 56, in get_context_data
+    c_def = self.get_user_context(title="Обратная связь")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:58:56,387 basehttp 20844 19360 "GET /contact/ HTTP/1.1" 500 139746
+INFO 2023-11-05 16:59:01,867 basehttp 20844 19360 "GET /about/ HTTP/1.1" 200 2184
+INFO 2023-11-05 16:59:03,531 basehttp 20844 19360 "GET /about/ HTTP/1.1" 200 2184
+ERROR 2023-11-05 16:59:07,336 log 20844 6336 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 16:59:07,339 basehttp 20844 6336 "GET / HTTP/1.1" 500 139997
+INFO 2023-11-05 17:03:27,046 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:04:24,906 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:04:40,375 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:04:41,785 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:04:57,965 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:04:59,238 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2106
+INFO 2023-11-05 17:05:26,249 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2108
+INFO 2023-11-05 17:05:27,547 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2108
+INFO 2023-11-05 17:05:51,808 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2109
+INFO 2023-11-05 17:05:53,715 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2109
+INFO 2023-11-05 17:06:02,165 basehttp 20844 12016 "GET /about/ HTTP/1.1" 200 2109
+INFO 2023-11-05 17:08:41,639 autoreload 20844 18152 K:\GeekBrains\Python Web Development\Attestations\recipes\models.py changed, reloading.
+INFO 2023-11-05 17:08:42,448 autoreload 2356 4320 Watching for file changes with StatReloader
+ERROR 2023-11-05 17:08:43,274 log 2356 3060 Internal Server Error: /about/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'women_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 33, in about
+    return render(request, 'recipes/about.html', {'page_obj': page_obj, 'menu': menu, 'title': 'О сайте'})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\coding\django\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'women_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+recipes_tags
+static
+tz
+ERROR 2023-11-05 17:08:43,281 basehttp 2356 3060 "GET /about/ HTTP/1.1" 500 222857
+INFO 2023-11-05 17:09:17,254 basehttp 2356 3060 "GET /about/ HTTP/1.1" 200 2056
+INFO 2023-11-05 17:09:17,377 basehttp 2356 3060 "GET /static/recipes/images/main.ico HTTP/1.1" 200 10462
+INFO 2023-11-05 17:13:31,332 basehttp 2356 14396 "GET /about/ HTTP/1.1" 200 2296
+INFO 2023-11-05 17:13:32,866 basehttp 2356 14396 "GET /about/ HTTP/1.1" 200 2296
+ERROR 2023-11-05 17:13:34,566 log 2356 14396 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 17:13:34,571 basehttp 2356 14396 "GET / HTTP/1.1" 500 139997
+ERROR 2023-11-05 17:13:38,270 log 2356 21684 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 20, in get_context_data
+    c_def = self.get_user_context(title="Главная страница")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 17:13:38,274 basehttp 2356 21684 "GET / HTTP/1.1" 500 139997
+ERROR 2023-11-05 17:13:43,456 log 2356 7768 Internal Server Error: /addpage/
+Traceback (most recent call last):
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\edit.py", line 180, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\views.py", line 45, in get_context_data
+    c_def = self.get_user_context(title="Добавление статьи")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "K:\GeekBrains\Python Web Development\Attestations\recipes\utils.py", line 20, in get_user_context
+    cats = Category.objects.annotate(Count('recipes'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1590, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\query.py", line 1638, in _annotate
+    clone.query.add_annotation(
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1133, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\aggregates.py", line 64, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 943, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\expressions.py", line 822, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1976, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\coding\django\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'recipes' into field. Choices are: id, name, slug, women
+ERROR 2023-11-05 17:13:43,460 basehttp 2356 7768 "GET /addpage/ HTTP/1.1" 500 148483
+INFO 2023-11-05 17:15:10,274 basehttp 2356 17788 "GET /about/ HTTP/1.1" 200 2253
+INFO 2023-11-05 17:20:04,713 autoreload 2356 4320 K:\GeekBrains\Python Web Development\Attestations\recipes\views.py changed, reloading.
+INFO 2023-11-05 17:20:07,557 autoreload 14436 14596 Watching for file changes with StatReloader
+INFO 2023-11-06 12:57:00,268 autoreload 15152 8940 Watching for file changes with StatReloader
+INFO 2023-11-06 12:57:23,383 autoreload 23220 19188 Watching for file changes with StatReloader
+INFO 2023-11-06 13:04:10,604 autoreload 21388 15628 Watching for file changes with StatReloader

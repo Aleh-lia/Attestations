@@ -1,0 +1,112 @@
+{% load static %}
+{% load recipe_tags %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{title}}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="shortcut icon" href="{% static 'recipes/images/burrito_mexican_food_fast_food_icon_256942.ico' %}" type="image/x-icon"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{% static 'recipes/css/styles.css' %}" rel="stylesheet" />
+</head>
+
+<body>
+    <table class="table-page" border=0 cellpadding="0" cellspacing="0">
+    <tr><td valign=top>
+        {% block mainmenu %}
+		    <div class="header">
+                <ul id="mainmenu" class="mainmenu">
+                    <div class="header__header">
+                        <div class="header__logo">
+                            <li>
+                                <a href="{% url 'home' %}">
+                                    <img class="logo" src="{% static "recipes/images/burrito_mexican_food_fast_food_icon_256942.png" %}" alt="">
+                                </a>
+                            </li>
+                        </div>
+
+                        <div class="header__menu">
+                            {% for m in mainmenu %}
+                                <li class="last"><a href="{% url m.url_name %}">{{ m.title }}</a></li>
+                            {% endfor %}
+                        </div>
+
+                        <div class="header__entrance">
+                            {% if user.is_authenticated %}
+                             <li><a href="{% url 'users:profile' %}">{{ user.username }}</a> | <a href="{% url 'users:logout' %}">Выйти</a></li>
+                            {% else %}
+                            <li class="last"><a href="{% url 'users:login' %}">Войти</a> | <a href="{% url 'users:register' %}">Регистрация</a></li>
+                            {% endif %}
+                        </div>
+                    </div>
+			    </ul>
+			    <div class="clear"></div>
+		    </div>
+        {% endblock mainmenu %}
+
+
+<table class="table-content" border=0 cellpadding="0" cellspacing="0">
+<tr>
+<!-- Sidebar слева -->
+	<td valign="top" class="left-chapters">
+	<ul id="leftchapters">
+		{% if cat_selected == 0 or cat_selected is None %}
+		<li class="selected">Все категории</li>
+		{% else %}
+		<li><a href="{% url 'home' %}">Все категории</a></li>
+		{% endif %}
+
+		{% show_categories cat_selected %}
+
+		<li>{% show_all_tags %}</li>
+	</ul>
+</td>
+<!-- Конец Sidebar'а -->
+<td valign="top" class="content">
+	<!-- Хлебные крошки -->
+	{% block breadcrumbs %}
+	{% endblock %}
+
+<!-- Блок контента -->
+	<div class="content-text">
+{% block content %}
+{% endblock %}
+	</div>
+<!-- Конец блока контента -->
+
+{% block navigation %}
+{% endblock %}
+
+</td></tr></table>
+</td></tr>
+<!-- Footer -->
+<tr><td valign=top>
+	<div id="footer" class="footer">
+        <p class="footer_text">&copy 2023 </p>
+            <div class="footer__social">
+                <a href="https://www.instagram.com/" class="icon">
+                    <img class="footer__img" src="{% static "recipes/images/instagram_logo_icon_257019.ico" %}" alt="instagram">
+                </a>
+
+                <a href="https://www.facebook.com/" class="icon">
+                    <img class="footer__img" src="{% static "recipes/images/facebook_logo_icon_257023.ico" %}" alt="facebook">
+                </a>
+
+                <a href="https://ru.pinterest.com/" class="icon">
+                     <img class="footer__img" src="{% static "recipes/images/pinterest_logo_icon_257030.ico" %}" alt="pinterest">
+                </a>
+
+                <a href="https://www.youtube.com/" class="icon">
+                     <img class="footer__img" src="{% static "recipes/images/youtube_logo_icon_257017.ico" %}" alt="youtube">
+                </a>
+            </div>
+	</div>
+</td></tr></table>
+<!-- Конец footer'а и страницы -->
+</body>
+</html>
