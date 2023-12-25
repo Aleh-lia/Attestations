@@ -1,8 +1,6 @@
 from django import forms
 from django.core.exceptions import ValidationError
-from django.core.validators import MinLengthValidator, MaxLengthValidator
 from django.utils.deconstruct import deconstructible
-
 from .models import *
 
 
@@ -24,7 +22,7 @@ class AddPostForm(forms.ModelForm):
 
     class Meta:
         model = Recipes
-        fields = ['title', 'slug', 'content', 'ingredients', 'cooking', 'photo', 'is_published', 'author', 'cat', 'tags']
+        fields = ['title', 'slug', 'content', 'ingredients', 'cooking', 'photo', 'is_published', 'cat', 'tags']
         widgets = {
             'title': forms.TextInput(attrs={'class': 'form-input'}),
             'content': forms.Textarea(attrs={'cols': 50, 'rows': 5}),

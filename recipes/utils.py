@@ -9,7 +9,7 @@ entrance = [{'title': "Регистрация", 'url_name': 'registration'},
 
 class DataMixin:
     title_page = None
-    paginate_by = 3
+    paginate_by = 5
     cat_selected = None
     extra_context = {}
 

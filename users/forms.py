@@ -36,11 +36,6 @@ class RegisterUserForm(UserCreationForm):
 
         }
 
-        # def clean_password2(self):
-        #     cd = self.cleaned_data
-        #     if cd['password'] != cd['password2']:
-        #         raise forms.ValidationError('Passwords don\'t match.')
-        #     return cd['password']
 
         def clear_email(self):
             email = self.cleaned_data['email']
